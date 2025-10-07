@@ -13,7 +13,7 @@ Brute force approach
     }
 }
 
-Hashing set approach ( most optimal one)
+Hashing set approach ( most optimal one)  this is mostly useed in all cases and has an efficieny of around 88% accepting
 
 public class Solution {
     public boolean hasDuplicate(int[] nums) {   // same as brute force
