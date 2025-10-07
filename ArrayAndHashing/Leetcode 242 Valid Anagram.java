@@ -1,9 +1,8 @@
 the problem is being solved using HashTable using Array method
+    
 
-JAVA CODE IS GIVEN BY 
-
-class Solution {
-    public boolean isAnagram(String s, String t) {
+class Solution { //creates a class first as per leetcode standard
+     public boolean isAnagram(String s, String t) {  
         if(s.length()!=t.length()){   //Check lengths first: If the strings are not of the same length, they can't be anagrams.  Otherwise return false.
             return false;
         }
