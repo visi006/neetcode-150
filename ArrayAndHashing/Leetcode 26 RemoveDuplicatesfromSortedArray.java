@@ -1,4 +1,4 @@
-
+JAVA SOLUTION
 
 public class RemoveDuplicatesFromSorted {
     static int removeDuplicate(int[] arr){
@@ -24,4 +24,6 @@ public class RemoveDuplicatesFromSorted {
     }
 }
 }
+
+
 
