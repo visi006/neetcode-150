@@ -1,3 +1,6 @@
+this is leetcode number 42 in Leetcode platform learned through marquee platform
+
+
 class Solution:
     def trap(self, height):
         n = len(height)
