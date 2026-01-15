@@ -32,7 +32,7 @@ Constraints:
 JAVA CODE :
 
 
-class Solution {
+class Solution 1 {
     public int maxProfit(int[] prices) {
        int buy=0;
        int sell=1;
