@@ -1,3 +1,5 @@
+under strings pattern 1
+
 class Solution {
     public void reverseString(char[] s) {
       int left=0;
