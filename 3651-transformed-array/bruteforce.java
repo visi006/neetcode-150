@@ -16,7 +16,6 @@ class Solution {
             pos=0;
         }
         else{
-          if(steps<0){
           for(int s=0;s<-steps;s++){
             pos--;
           }
